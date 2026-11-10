@@ -66,10 +66,6 @@ One of the most meaningful lessons from *Interstellar* is that love, hope, and d
 
 It is ==an extraordinary story about love, time, and space==.
 
-H~2~O
-
-E = mc^2^
-
 ### Movie Information
 
 **Genre:** Science Fiction
